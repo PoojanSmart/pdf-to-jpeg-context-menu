@@ -21,6 +21,7 @@ Opens context menu when user right clicks on .pdf file to convert it to .jpeg.
 
 ![Context menu appears with option to convert to jpeg for pdf file](https://github.com/PoojanSmart/pdf-to-jpeg-context-menu/assets/44301271/5168797c-45ec-479f-85d7-b1ebfbae1df0)
 
-![Result](https://github.com/PoojanSmart/pdf-to-jpeg-context-menu/assets/44301271/d1296cbe-397d-4000-ab25-ec99e286ce31)
+![Result](https://github.com/PoojanSmart/pdf-to-jpeg-context-menu/assets/44301271/94587ade-7f65-4a5f-af8d-a03345902b4d)
+
 
 
